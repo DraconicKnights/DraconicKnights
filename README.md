@@ -65,9 +65,23 @@ Whether it's a game, MC plugin, complex web application, or a Discord bot, I enj
 
 ---
 
+## 🌐 Personal Website — Coming Soon!
+
+<div align="center" style="margin: 0 auto; max-width: 700px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=50FA7B&center=true&vCenter=true&width=500&lines=🚧+Personal+Website+Coming+Soon!+%F0%9F%8C%90;Built+with+JS%2C+React%2C+Tailwind+CSS+%F0%9F%92%BB;blog%2C+project+showcase%2C+tools+and+more+..." alt="Website Coming Soon announcement" style="margin-bottom: 16px;">
+  <br>
+  <img src="https://img.shields.io/badge/Status-Under%20Construction-yellow?style=flat-square&logo=githubpages&logoColor=white" alt="Under Construction badge">
+  <br>
+  <p align="center" style="color:#FFD27F; font-size:17px; margin-top:6px;">
+    Stay tuned for my new home for all of my content!<br>
+    🚀 <b>Coding blog, tools and products, and more will be available soon.</b><br>
+  </p>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
-<!-- Custom Stats Card Section -->
 <div align="center" style="width:100%; margin:0 auto; padding: 0;">
   <div style="background: linear-gradient(90deg, #16222A 0%, #3A6073 100%); border-radius: 22px; box-shadow: 0 8px 32px #222c3750; display: inline-block; padding: 22px 32px 18px 32px; min-width: 320px; max-width: 700px;">
     <table style="border:none; width:100%;">
