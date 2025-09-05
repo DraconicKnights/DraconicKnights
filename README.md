@@ -1,8 +1,4 @@
 <!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:16222A,100:3A6073&text=DraconicKnights&fontAlign=50&fontAlignY=40&fontSize=50&desc=Cybersecurity%20%7C%20Web%20%26%20Game%20Dev%20%7C%20Community%20Enthusiast&descAlign=50&descAlignY=65" alt="banner"/>
-</p>
-
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-draconicknight-5865F2?logo=discord&logoColor=white&style=flat-square)](https://discordapp.com/users/draconicknight)
