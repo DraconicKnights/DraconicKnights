@@ -66,14 +66,25 @@ Whether it's a game, MC plugin, complex web application, or a Discord bot, I enj
 ---
 
 ## 🌐 Personal Website — Coming Soon!
+
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=50FA7B&center=true&vCenter=true&width=500&lines=🚧+Personal+Website+Coming+Soon!+%F0%9F%8C%90;Built+with+JS%2C+React%2C+Tailwind+CSS+%F0%9F%92%BB;Dev+blog%2C+project+showcase%2C+tools+and+more+..." alt="Website Coming Soon announcement">
+
+<br>
+
+<!-- Website Teaser Image -->
+<img src="https://github.com/DraconicKnights/DraconicKnights/blob/main/Website_tease.png" alt="Personal Website Teaser" width="300">
 
 <br>
 
 <img src="https://img.shields.io/badge/Status-Under%20Construction-yellow?style=flat-square&logo=githubpages&logoColor=white" alt="Under Construction badge">
 
+<br><br>
+
 Stay tuned for my new home for all of my content!  
-🚀 **Coding blog, tools and products, and more will be available soon.**
+🚀 **Coding blog, tools and products, and more will be available soon.**  
+✨ *Crafted with JavaScript, React, and Tailwind CSS for a modern, interactive experience.*
 
 </div>
 
