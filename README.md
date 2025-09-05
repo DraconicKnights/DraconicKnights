@@ -25,7 +25,7 @@ Whether it's a game, MC plugin, complex web application, or a Discord bot, I enj
   <img src="https://skillicons.dev/icons?i=cs,java,php,laravel,js,react,unity,docker,mysql,discord,mariadb,html,css,git" alt="Tech stack" /><br>
 </p>
 
-- **Languages:** C#, Java, PHP, JavaScript, SQL
+- **Languages:** C#, Java, PHP, JavaScript, C++, SQL
 - **Frameworks:** Laravel, React, Unity
 - **Platforms:** Minecraft, Discord, Web, Desktop
 - **Containers & DB:** Docker, MySQL, MariaDB
