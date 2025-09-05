@@ -42,7 +42,7 @@ Whether it's a game, MC plugin, complex web application, or a Discord bot, I enj
 | [FirewallService](https://github.com/DraconicKnights/FirewallService) | **A robust central service for managing Linux servers using IPTables.**<br>Designed with a powerful system for automation and security monitoring. | C#, Security, Services, Automation |
 | [FirewallAPI](https://github.com/DraconicKnights/FirewallAPI) | **The external API for my Firewall Application.**<br>Flexible APIs for managing firewall policies and network security across your infrastructure. | C#, Security             |
 | [SCP-Breach](https://github.com/DraconicKnights/SCP-Breach) | **A SCP:SL plugin (using LAB-API Framework) with modifications for streamlined event registrations and adaptability for creative concepts.** | C#                                 |
-| [MC Packet Manager](https://github.com/DraconicKnights/CustomPacketManager) **A Custom packet Manager that i created for testing with MC packets with use of NMS.** | Java, Networking, Reflection |
+| [MC Packet Manager](https://github.com/DraconicKnights/CustomPacketManager) | **A Custom packet Manager that i created for testing with MC packets with use of NMS.** | Java, Networking, Reflection |
 
 ---
 
