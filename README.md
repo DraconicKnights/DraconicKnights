@@ -47,9 +47,9 @@ Whether it's a game, MC plugin, complex web application, or a Discord bot, I enj
 
 ## 🌟 What I Do
 
-- 🎮 **Game Creation:** From Unity engine to Minecraft plugins, I love building immersive gameplay and interactive experiences.
+- 🎮 **Game Creation:** From Unity engine to Minecraft plugins, I love building immersive gameplay and watching others enjoy my work.
 - 🌐 **Web Development:** Crafting robust websites and web apps with PHP (Laravel), JavaScript, and React, always with security in mind.
-- 🤖 **Discord Bots:** Enhancing communities with custom bots using JavaScript and Node.js.
+- 🤖 **Discord Bots:** Self-Reliant with custom bots using JavaScript and Node.js.
 - 🛡️ **Cybersecurity:** Designing tools and automations to keep networks safe, mixing fun with function.
 - 🐳 **DevOps:** Containerizing and automating with Docker; integrating databases like MySQL and MariaDB for smooth deployments.
 - 👥 **Collaboration:** I thrive on teamwork, open source, and connecting with other creative minds.
