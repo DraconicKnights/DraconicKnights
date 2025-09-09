@@ -23,7 +23,7 @@ I enjoy working with others and trully thrive within enviorments with communicat
 ## 🔧 My Favorite Tools & Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,php,laravel,js,react,unity,docker,mysql,discord,mariadb,html,css,git" alt="Tech stack" /><br>
+  <img src="https://skillicons.dev/icons?i=cs,java,php,laravel,js,react,unity,docker,kubernetes,mysql,discord,mariadb,html,css,git" alt="Tech stack" /><br>
 </p>
 
 - **Languages:** C#, Java, PHP, JavaScript, C++, SQL
