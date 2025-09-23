@@ -48,12 +48,12 @@ I enjoy working with others and trully thrive within enviorments with communicat
 
 ## 🌟 What I Do
 
-- 🎮 **Game Creation:** From Unity engine to Minecraft plugins, I love building immersive gameplay and watching others enjoy my work.
-- 🌐 **Web Development:** Crafting robust websites and web apps with PHP (Laravel), JavaScript, and React, always with security in mind.
+- 🎮 **Game Creation:** From Unity engine to Minecraft plugins, I love messing around with ideas and concepts and watching others enjoy my work along with casual fun expericnes.
+- 🌐 **Web Development:** Crafting robust websites and web apps with PHP (Laravel), JavaScript, and React, always with security in mind along with practicle use.
 - 🤖 **Discord Bots:** Self-Reliant with custom bots using JavaScript and Node.js.
 - 🛡️ **Cybersecurity:** Designing tools and automations to keep networks safe, mixing fun with function.
-- 🐳 **DevOps:** Containerizing and automating with Docker; integrating databases like MySQL and MariaDB for smooth deployments.
-- 👥 **Collaboration:** I thrive on teamwork, open source, and connecting with other creative minds.
+- 🐳 **DevOps:** Containerizing and automating with Docker; integrating databases like MySQL and MariaDB for smooth deployments along with general ease of server use and manageemnt.
+- 👥 **Collaboration:** I thrive on teamwork, open source, and connecting with other creative minds along with general feedback for fune and new creative ideas.
 
 ---
 
