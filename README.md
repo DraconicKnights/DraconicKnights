@@ -15,7 +15,7 @@
 
 Hello! I'm **DraconicKnights** — a cybersecurity enthusiast, software developer, and community builder.  
 I love collaborating with others to build creative, secure, and energetic projects that bring fun and value to users.  
-Whether it's a game, MC plugin, complex web application, or a Discord bot, 
+Whether it's a game, MC plugin, web applications for logical use. example CRUD API interfaces or general front news blogs, or a Discord bot utility use or purely for experimenting, 
 I enjoy working with others and trully thrive within enviorments with communication and teamwork!
 
 ---
