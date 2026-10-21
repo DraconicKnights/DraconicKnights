@@ -65,15 +65,14 @@ I enjoy working with others and trully thrive within enviorments with communicat
 
 ---
 
-## 🌐 Personal Website — Coming Soon!
+## 🌐 Company Launch — Coming Soon!
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Status-Under%20Construction-yellow?style=flat-square&logo=githubpages&logoColor=white" alt="Under Construction badge">
 
-Stay tuned for my new home for all of my content!  
-🚀 **Coding blog, tools and products, and more will be available soon.**  
-✨ *Crafted with JavaScript, React, and Tailwind CSS for a modern, interactive experience.*
+Stay tuned for the launch of my new company!  
+🚀 **Server Hosting, Feature rich support, Easy of Install and Management.**  
 
 </div>
 
